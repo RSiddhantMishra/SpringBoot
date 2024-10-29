@@ -8,7 +8,7 @@ public class PlayGround {
 	
 	@GetMapping("helloworld")
 	public String helloworld() {
-		return "helloworld";
+		return "hello world";
 	}
 
 }
